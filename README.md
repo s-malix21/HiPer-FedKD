@@ -57,7 +57,7 @@ HiPer-FedKD/
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/HiPer-FedKD.git
+git clone https://github.com/s-malix21/HiPer-FedKD.git
 cd HiPer-FedKD
 ```
 
